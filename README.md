@@ -1,3 +1,1 @@
-### 🌞
-
-Occasionally blogging at [codetalk.io](https://codetalk.io) :)
+### 🌞🌞🌞 Occasionally blogging at [codetalk.io](https://codetalk.io) 🌞🌞🌞
