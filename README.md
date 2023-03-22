@@ -1,5 +1,7 @@
 ### 🌞🌞🌞 Occasionally blogging at [codetalk.io](https://codetalk.io) 🌞🌞🌞
 
+Having fun at the moment with [The Stack: Everything to build a modern cloud infrastructure](https://github.com/codetalkio/the-stack)
+
 Interested in serverless? Checkout the serverless patterns
 
 - [🦀 Minimal Rust Lambda with AWS CDK](https://github.com/codetalkio/patterns-serverless-rust-minimal)
