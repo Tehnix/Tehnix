@@ -1,6 +1,6 @@
 ### 🌞🌞🌞 Occasionally blogging at [codetalk.io](https://codetalk.io) 🌞🌞🌞
 
-Having fun at the moment with [The Stack: Everything to build a modern cloud infrastructure](https://github.com/codetalkio/the-stack)
+Having fun at the moment with [🌥️ The Stack: Everything to build a modern cloud infrastructure](https://github.com/codetalkio/the-stack), an initiative for a full SaaS setup utilizing Rust.
 
 Interested in serverless? Checkout the serverless patterns
 
