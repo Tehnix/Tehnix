@@ -4,6 +4,7 @@ Having fun at the moment with [🌥️ The Stack: Everything to build a modern c
 
 Interested in serverless? Checkout some of these serverless projects
 
+- [Rust on Mobile and code sharing with Swift](https://github.com/Tehnix/playground-mobile-wasm)
 - [Serverless Federated GraphQL](https://github.com/codetalkio/serverless-federated-graphql)
 - [🦀 Minimal Rust Lambda with AWS CDK](https://github.com/codetalkio/patterns-serverless-rust-minimal)
 - [🦀 Rust Lambda with AWS CDK + Rusoto + GraphQL](https://github.com/codetalkio/patterns-serverless-rustl)
