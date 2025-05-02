@@ -1,6 +1,6 @@
 ### 🌞🌞🌞 Occasionally blogging at [codethoughts.io](https://codethoughts.io) 🌞🌞🌞
 
-Having fun building [Yaay](https://yaaytravel.com] from the ground-up, mixing serverless (AWS), Rust/GraphQL (sync services), TypeScript (async services), NextJS/TypeScript and Mobile development.
+Having fun building [Yaay](https://yaaytravel.com) from the ground-up, mixing serverless (AWS), Rust/GraphQL (sync services), TypeScript (async services), NextJS/TypeScript and Mobile development.
 
 Interested in serverless? Checkout some of these serverless projects
 
